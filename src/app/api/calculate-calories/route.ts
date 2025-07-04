@@ -116,8 +116,16 @@ function calculateCalories(exercise: string, duration: number, intensity: string
   };
 }
 
+interface CalorieCalculation {
+  calories: number;
+  exerciseName: string;
+  met: number;
+  intensityMultiplier: number;
+  adjustedMET: number;
+}
+
 // Generate explanation
-function generateExplanation(calculation: any, exercise: string, duration: number, intensity: string) {
+function generateExplanation(calculation: CalorieCalculation, exercise: string, duration: number, intensity: string) {
   const { calories, exerciseName, met, intensityMultiplier, adjustedMET } = calculation;
   
   let explanation = `Based on ${duration} minutes of ${exerciseName} at ${intensity} intensity, `;
