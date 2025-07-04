@@ -118,7 +118,7 @@ Pull requests and suggestions are welcome! Open an issue or submit a PR to help 
 
 ## 🔗 Links
 
-- [Live Demo on Vercel)](https://raj-fitness-tracker.vercel.app/)
+- [Live Demo on Vercel](https://raj-fitness-tracker.vercel.app/)
 
 ---
 
