@@ -118,8 +118,7 @@ Pull requests and suggestions are welcome! Open an issue or submit a PR to help 
 
 ## 🔗 Links
 
-- [Live Demo (if deployed)](https://github.com/neeraj-somani/RajFitnessTracker)
-- [Project Repository](https://github.com/neeraj-somani/RajFitnessTracker)
+- [Live Demo on Vercel)](https://raj-fitness-tracker.vercel.app/)
 
 ---
 
